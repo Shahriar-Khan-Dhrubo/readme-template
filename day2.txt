@@ -1,0 +1,1 @@
+testing git add,commit and reset.checking git checkout.changing day2 data for checking git branch and merging
