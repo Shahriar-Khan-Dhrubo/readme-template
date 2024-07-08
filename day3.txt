@@ -1,1 +1,1 @@
-git branching and merging practice using cmd.
+day3 is changed to check merging by remote repo
