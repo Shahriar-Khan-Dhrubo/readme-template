@@ -1,1 +1,1 @@
-checking git & github.checking pull.changed to check branching and merging using cmd.again merging using cmd,before made it using github
+changed day1 to initial state
