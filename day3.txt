@@ -1,1 +1,1 @@
-day3 is changed to check merging by remote repo
+day3 is changed to check merging by remote repo.changed day3 to check it in remote repo
