@@ -1,1 +1,1 @@
-day3 is changed to check merging by remote repo.changed day3 to check it in remote repo.changed it in repo and pulling it in feature1
+day3 is changed to check merging by remote repo.changed day3 to check it in remote repo.changed it in repo and pulling it in feature1.issue fixed
